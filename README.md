@@ -49,9 +49,10 @@ Python · Pandas · Plotly · Streamlit · Dash · GitHub · Google Colab
 Business: Supply Chain Management · Operations Management · Inventory Planning · Project Management · Process Improvement · Business Analytics · Leadership
 
 
+
+
 Projects
 
-You already have several strong candidates.
 
 IBM Employee Attrition & Workforce Segmentation
 
@@ -61,6 +62,9 @@ Skills: Python · Pandas · scikit-learn · K-Means · PCA · Plotly · Dash · 
 
 Live Application: https://freedom-ivory-spider-c2fb3b75.plotly.app
 
+
+
+
 NovaRetail Business Analytics Dashboard
 
 Built an interactive executive dashboard to identify revenue drivers, evaluate customer performance, and identify at-risk business segments. Translated transactional data into actionable recommendations through KPI monitoring, segmentation, and interactive visualizations.
@@ -69,6 +73,9 @@ Skills: Python · Pandas · Plotly · Streamlit · Data Visualization · Busines
 
 Live Demo: https://novaretaildashboard-nfufl8nwu5rtuhan7zt83m.streamlit.app/
 Repository: https://github.com/mill4394/NovaRetailDashboard
+
+
+
 
 Contact
 
