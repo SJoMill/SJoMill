@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shayne</h1>
+<h1 align="center">Hi, I'm Shayne</h1>
 <h3 align="center">Chief Operating Officer | Supply Chain | Business Analytics | Project Management</h3>
 
-- 🔭 I’m currently working on [Operations, supply chain, and business analytics at Artemis Tea & Botanical](https://artemistea.com/)
+- I’m currently working on [Operations, supply chain, and business analytics at Artemis Tea & Botanical](https://artemistea.com/)
 
-- 🌱 I’m currently learning **Advanced business analytics, predictive modeling, and data-driven decision making**
+- I’m currently learning **Advanced business analytics, predictive modeling, and data-driven decision making**
 
-- 🤝 I’m looking for help with [Expanding my professional network and exploring new opportunities](https://www.linkedin.com/in/shayne-miller-382075173/)
+- I’m looking for help with [Expanding my professional network and exploring new opportunities](https://www.linkedin.com/in/shayne-miller-382075173/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SJoMill/SJoMill](https://github.com/SJoMill/SJoMill)
+- All of my projects are available at [https://github.com/SJoMill/SJoMill](https://github.com/SJoMill/SJoMill)
 
-- 💬 Ask me about **Supply chain, operations, leadership, business analytics, project management, Loose Leaf Tea**
+- Ask me about **Supply chain, operations, leadership, business analytics, project management, Loose Leaf Tea**
 
-- 📫 How to reach me **shayne@artemistea.com**
+- How to reach me **shayne@artemistea.com**
 
-- ⚡ Fun fact **Before working in business and analytics, I was an Air Force airborne cryptologic linguist. It's been an interesting career path.**
+- Fun fact **Before working in business and analytics, I was an Air Force airborne cryptologic linguist. It's been an interesting career path.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
